@@ -1,1 +1,1 @@
-# Eigenvalue-method-for-sl-d-and-gl-d-recovery
+# Eigenvalue_method_for_sl(d)_and_gl(d)_recovery
